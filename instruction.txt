@@ -1,0 +1,17 @@
+Step
+
+1. Copy folder - htdocs
+2. Db Create - creatous_bim -
+	A. change db name- C:\xampp\htdocs\car_rental_system\application\config\databse.php - 
+	B. Sql File Import
+3. http://127.0.0.1:8012/car_rental_system/en/
+
+	Admin Login
+		
+	U: admin@admin.com
+	P: admin123
+
+	User Login
+		
+	U: test@gmail.com
+	P: admin123

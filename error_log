@@ -1,0 +1,33 @@
+[18-Mar-2019 00:41:10 US/Alaska] PHP Parse error:  syntax error, unexpected '*' in /home2/creatous/public_html/BookingInvoiceManager/application/views/site/login.php on line 49
+[18-Mar-2019 00:41:28 US/Alaska] PHP Fatal error:  Class 'Google_Client' not found in /home2/creatous/public_html/BookingInvoiceManager/application/views/site/login.php on line 51
+[19-Mar-2019 05:44:15 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Welcome.php on line 120
+[19-Mar-2019 05:44:41 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Welcome.php on line 120
+[19-Mar-2019 05:45:13 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Welcome.php on line 120
+[19-Mar-2019 05:45:21 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Welcome.php on line 120
+[19-Mar-2019 05:45:33 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Welcome.php on line 120
+[19-Mar-2019 06:05:35 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Welcome.php on line 120
+[19-Mar-2019 06:39:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Welcome.php on line 126
+[19-Mar-2019 07:00:43 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Welcome.php on line 359
+[18-Mar-2019 23:06:58 US/Alaska] PHP Fatal error:  Unsupported operand types in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Welcome.php on line 344
+[18-Mar-2019 23:07:14 US/Alaska] PHP Fatal error:  Unsupported operand types in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Welcome.php on line 344
+[19-Mar-2019 08:32:13 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Welcome.php on line 1063
+[19-Mar-2019 00:49:37 US/Alaska] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home2/creatous/public_html/BookingInvoiceManager/application/views/site/payment_confirmation.php on line 22
+[19-Mar-2019 00:59:12 US/Alaska] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home2/creatous/public_html/BookingInvoiceManager/application/views/site/payment_confirmation.php on line 22
+[20-Mar-2019 08:49:25 Etc/GMT] PHP Fatal error:  Cannot redeclare Welcome::payment() in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Welcome.php on line 425
+[22-Mar-2019 03:47:45 US/Alaska] PHP Fatal error:  Call to undefined method Dvbs_Model::get_package_description() in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Tourpackage.php on line 88
+[22-Mar-2019 03:48:02 US/Alaska] PHP Fatal error:  Call to undefined method Dvbs_Model::get_package_description() in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Tourpackage.php on line 88
+[22-Mar-2019 03:48:45 US/Alaska] PHP Fatal error:  Call to undefined method Dvbs_Model::get_package_description() in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Tourpackage.php on line 88
+[26-Mar-2019 07:23:06 Etc/GMT] PHP Fatal error:  Cannot redeclare Dvbs_Model::get_hotel_data() in /home2/creatous/public_html/BookingInvoiceManager/application/models/Dvbs_model.php on line 512
+[26-Mar-2019 07:23:48 Etc/GMT] PHP Fatal error:  Cannot redeclare Dvbs_Model::get_hotel_data() in /home2/creatous/public_html/BookingInvoiceManager/application/models/Dvbs_model.php on line 180
+[25-Mar-2019 23:42:41 US/Alaska] PHP Fatal error:  Call to a member function insert() on a non-object in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Tour.php on line 353
+[26-Mar-2019 02:06:01 US/Alaska] PHP Fatal error:  Call to a member function getRows() on a non-object in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Tourpackage.php on line 89
+[27-Mar-2019 00:06:06 US/Alaska] PHP Fatal error:  Cannot redeclare class URI_Template_Parser in /home2/creatous/public_html/BookingInvoiceManager/application/libraries/google-api-php-client/external/URITemplateParser.php on line 30
+[27-Mar-2019 00:06:27 US/Alaska] PHP Fatal error:  Class 'Google_Client' not found in /home2/creatous/public_html/BookingInvoiceManager/application/views/site/login.php on line 51
+[30-Mar-2019 03:59:34 US/Alaska] PHP Fatal error:  Call to undefined method Dvbs_Model::get_home_coupons() in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Welcome.php on line 380
+[30-Mar-2019 06:01:06 US/Alaska] PHP Fatal error:  Call to undefined method Admin::admin_session_validate() in /home2/creatous/public_html/BookingInvoiceManager/application/core/MY_Controller.php on line 322
+[01-Apr-2019 05:45:51 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home2/creatous/public_html/BookingInvoiceManager/application/controllers/Tourpackage.php on line 99
+[01-Apr-2019 00:50:27 US/Alaska] PHP Fatal error:  Call to undefined method pdf::setPrintHeader() in /home2/creatous/public_html/BookingInvoiceManager/application/helpers/global_helper.php on line 1013
+[01-Apr-2019 00:50:55 US/Alaska] PHP Fatal error:  Call to undefined method pdf::SetCellPadding() in /home2/creatous/public_html/BookingInvoiceManager/application/helpers/global_helper.php on line 1014
+[01-Apr-2019 00:51:08 US/Alaska] PHP Fatal error:  Call to undefined method pdf::writeHTML() in /home2/creatous/public_html/BookingInvoiceManager/application/helpers/global_helper.php on line 1026
+[02-Apr-2019 01:36:53 US/Alaska] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/creatous/public_html/BookingInvoiceManager/application/views/site/index.php on line 287
+[02-Apr-2019 01:36:54 US/Alaska] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/creatous/public_html/BookingInvoiceManager/application/views/site/index.php on line 287
